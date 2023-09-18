@@ -5,6 +5,7 @@ using ImageMagick;
 
 namespace ImageConverter
 {
+
     class Program
     {
         static void Main(string[] args)
